@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1611479017498" ID="ID_547506165" MODIFIED="1611854924809" TEXT="React">
+<node CREATED="1611479017498" ID="ID_547506165" MODIFIED="1613499225838" TEXT="React">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -10,7 +10,8 @@
       Source: https://reactjs.org/docs/hello-world.html
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1611854193280" ID="ID_43657090" MODIFIED="1612960217838" POSITION="left" TEXT="controlflow">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -21,8 +22,7 @@
       In React controlflows can be used for conditional rendering.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1611854856294" ID="ID_1084549610" MODIFIED="1611855315028" TEXT="conditions">
 <richcontent TYPE="NOTE"><html>
   <head>
