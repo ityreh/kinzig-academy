@@ -29,7 +29,21 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1615578634036" ID="ID_1423658858" MODIFIED="1615578639811" TEXT="Bundler">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      https://bundler.io/
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
+</node>
+<node CREATED="1615583759554" ID="ID_1925909929" MODIFIED="1615583769009" POSITION="right" TEXT="irb"/>
 <node CREATED="1615577203989" ID="ID_332981954" MODIFIED="1615577224332" POSITION="right" TEXT="comment">
 <richcontent TYPE="NOTE"><html>
   <head>
