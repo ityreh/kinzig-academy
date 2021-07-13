@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1612636728559" ID="ID_1475641793" MODIFIED="1612860204886" TEXT="Solidity">
+<node CREATED="1612636728559" ID="ID_1475641793" MODIFIED="1619114834619" TEXT="Solidity">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -10,9 +10,16 @@
       https://docs.soliditylang.org/en/latest/
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1612860111241" ID="ID_1658002187" MODIFIED="1612860116472" POSITION="right" TEXT="paradigm">
 <node CREATED="1612860116473" ID="ID_1054296705" MODIFIED="1612860133914" TEXT="object-oriented"/>
+<node CREATED="1619116100687" ID="ID_23604804" MODIFIED="1619116104442" TEXT="statically-typed"/>
+</node>
+<node CREATED="1619116132505" ID="ID_564098908" MODIFIED="1619116137176" POSITION="right" TEXT="SPDX License Identifier"/>
+<node CREATED="1619116894573" ID="ID_793674243" MODIFIED="1619116898072" POSITION="right" TEXT="pragma">
+<node CREATED="1619116901757" ID="ID_1717342227" MODIFIED="1619116907157" TEXT="version pragma"/>
+<node CREATED="1619116907799" ID="ID_167911812" MODIFIED="1619117640416" TEXT="ABI Coder"/>
 </node>
 <node CREATED="1612860171419" ID="ID_1631590193" MODIFIED="1612860180887" POSITION="left" TEXT="Ethereum Virtual Machine (EVM)">
 <node CREATED="1612870485514" ID="ID_126438304" MODIFIED="1612870993003" TEXT="accounts">
@@ -191,10 +198,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1612860208842" ID="ID_1155395618" MODIFIED="1612860215804" POSITION="right" TEXT="typing">
-<node CREATED="1612860227623" ID="ID_135747982" MODIFIED="1612860230663" TEXT="static"/>
-</node>
-<node CREATED="1612875270416" ID="ID_1515786375" MODIFIED="1614086129666" POSITION="left" TEXT="security considerations">
+<node CREATED="1612875270416" ID="ID_1515786375" MODIFIED="1619116107619" POSITION="left" TEXT="security considerations">
 <richcontent TYPE="NOTE"><html>
   <head>
     

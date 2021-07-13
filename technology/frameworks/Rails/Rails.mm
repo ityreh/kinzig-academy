@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1615568833953" ID="ID_460269663" MODIFIED="1615915914324" TEXT="Rails">
-<node CREATED="1615578986524" ID="ID_892138245" MODIFIED="1615583301224" POSITION="right" TEXT="generators">
+<node CREATED="1615578986524" ID="ID_892138245" MODIFIED="1622460463408" POSITION="right" TEXT="generators">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -40,7 +40,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1615579594811" ID="ID_357689717" MODIFIED="1615579597942" POSITION="left" TEXT="app">
 <node CREATED="1615579630802" ID="ID_724805562" MODIFIED="1615579641502" TEXT="controllers"/>
@@ -277,8 +278,7 @@
       A Rails application is actually just a &quot;supercharged&quot; engine, with the Rails::Application class inheriting a lot of its behavior from Rails::Engine.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1615916258183" ID="ID_397489894" MODIFIED="1615916265185" TEXT="isolate namespace">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -289,8 +289,7 @@
       It is highly recommended that the isolate_namespace line be left within the Engine class definition. Without it, classes generated in an engine may conflict with an application.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

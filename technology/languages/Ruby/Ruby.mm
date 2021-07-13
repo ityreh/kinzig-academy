@@ -87,7 +87,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1617129277012" ID="ID_1190532626" MODIFIED="1617129397755" TEXT="opts">
+<node CREATED="1617129277012" ID="ID_1190532626" MODIFIED="1620151236167" TEXT="opts">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -113,9 +113,6 @@
     </p>
     <p>
       foo(one, {extra: bar})
-    </p>
-    <p>
-      
     </p>
   </body>
 </html>
@@ -383,8 +380,7 @@
       <code class="plain" style="margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-bottom: 0px; padding-right: 0; padding-left: 0; font-size: 11pt !important; vertical-align: baseline !important; background-position: 0px 0px; background-image: null; background-repeat: repeat; background-attachment: scroll; float: none !important; line-height: 1.2em !important; text-align: left !important; font-family: Consolas, Bitstream Vera Sans Mono, Courier New, Courier, monospace !important; font-weight: normal; font-style: normal !important; display: inline !important; color: rgb(0, 0, 0) !important"><font size="11pt !important" face="Consolas, Bitstream Vera Sans Mono, Courier New, Courier, monospace !important" color="rgb(0, 0, 0) !important">gfg.s1</font></code>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </map>

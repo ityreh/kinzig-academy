@@ -1,0 +1,42 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1620709319984" ID="ID_1022665887" MODIFIED="1620709338854" TEXT="Cloud Native Java">
+<node CREATED="1620709348132" ID="ID_1469654453" MODIFIED="1620709467660" POSITION="right" TEXT="Becoming Cloud Native">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1620709361382" ID="ID_410720639" MODIFIED="1620709469554" POSITION="right" TEXT="Bootcamp">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1620709364862" ID="ID_104648717" MODIFIED="1620709471867" POSITION="right" TEXT="Production Ready">
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1620709375465" ID="ID_1781699616" MODIFIED="1620709473700" POSITION="right" TEXT="Configuration">
+<icon BUILTIN="full-4"/>
+</node>
+<node CREATED="1620709383576" ID="ID_1337765425" MODIFIED="1620709475751" POSITION="right" TEXT="Service Registration and Discovery">
+<icon BUILTIN="full-5"/>
+</node>
+<node CREATED="1620709398139" ID="ID_161513913" MODIFIED="1620709479298" POSITION="right" TEXT="Edge Services">
+<icon BUILTIN="full-6"/>
+</node>
+<node CREATED="1620709415448" ID="ID_1921830195" MODIFIED="1620709481153" POSITION="right" TEXT="Into the Cloud">
+<icon BUILTIN="full-7"/>
+</node>
+<node CREATED="1620709418329" ID="ID_186484754" MODIFIED="1620709483157" POSITION="right" TEXT="Operations at Scale">
+<icon BUILTIN="full-8"/>
+</node>
+<node CREATED="1620709432381" ID="ID_195265803" MODIFIED="1620709486099" POSITION="right" TEXT="Security in the Cloud">
+<icon BUILTIN="full-9"/>
+</node>
+<node CREATED="1620709452567" ID="ID_1260308457" MODIFIED="1620709491223" POSITION="right" TEXT="Composing Microservice">
+<icon BUILTIN="full-1"/>
+<icon BUILTIN="full-0"/>
+</node>
+<node CREATED="1620709506488" ID="ID_1070809664" MODIFIED="1620709513363" POSITION="left" TEXT="prerequisities"/>
+<node CREATED="1620709950414" ID="ID_337178364" MODIFIED="1620709956925" POSITION="left" TEXT="services &amp; products">
+<node CREATED="1620709959361" ID="ID_972805341" MODIFIED="1620709961913" TEXT="Spring Cloud"/>
+<node CREATED="1620709962222" ID="ID_665214330" MODIFIED="1620709964079" TEXT="Cloud Foundry"/>
+</node>
+<node CREATED="1620709514030" ID="ID_1020859783" MODIFIED="1620709514984" POSITION="left" TEXT="DZ"/>
+</node>
+</map>
